@@ -1,1 +1,10 @@
-This week I learned ----9/7/2018: 6 sentences on what you learned Tuesday: Sold state drives use energy as information if this drive was to sit on a shelf for two-three years the information will lose energy and will become unusable. Wednesday: Alen Turing created the Turing machine--- Thursday: Algorithms: a set of instructions that solve a question--- Types of Algorithms [Binary Seach, Bubble Sort, Merge Sort]--- [Constant] O(1) = Y = 1 One input that's how long it will take [Logrithmic] O(Log(n)) = Gets faster as n increases [Linear] O(n) = What N is that's how long it will take [Polytime] O(n^2) Takes more time as you add more to do. [Exponetial]O(n^n) Whatever n is n is raised to that power
+#This week I learned ----9/7/2018: 6 sentences on what you learned 
+Tuesday: Sold state drives use energy as information if this drive was to sit on a shelf for two-three years the information will lose energy and will become unusable. 
+Wednesday: Alen Turing created the Turing machine--- 
+Thursday: Algorithms: a set of instructions that solve a question--- 
+Types of Algorithms [Binary Seach, Bubble Sort, Merge Sort]--- 
+[Constant] O(1) = Y = 1 One input that's how long it will take 
+[Logrithmic] O(Log(n)) = Gets faster as n increases 
+[Linear] O(n) = What N is that's how long it will take 
+[Polytime] O(n^2) Takes more time as you add more to do. 
+[Exponetial]O(n^n) Whatever n is n is raised to that power
