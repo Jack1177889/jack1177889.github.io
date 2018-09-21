@@ -16,7 +16,7 @@ Types of Algorithms [Binary Seach, Bubble Sort, Merge Sort]---
 
 This Week I learned that htp is the old standard way of sending information and post-2008 most computers moved to https that was a secure way of sending information over the internet. I learned what LAN vs. WAN LAN being local area network that is emitted from the local router. While the WAN is part of the ISP and connects to other WAN's to create a computer network. across the world On top of that, you do not have to be in the same room city or region to connect to these networks. You can use VPN to connect to a network but your information will be sent to the VPN and their servers and will then be sent back down the chain. Finally,  packets that transmit information via electronic pulses.
 
-# Cryptography
+# Cryptography 9/21/18
 
 ---
 
