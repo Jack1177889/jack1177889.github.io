@@ -1,3 +1,11 @@
+# This Week I learrned Git 10/05/18
+
+---
+
+This week I learned how to code on Visual Studio Code. Visual Studio Code is a free Microsoft application that we are using in class as our way to create a website. Visual Studio Code also works like a google doc in that a team of individuals can ban togeither and write a program. The issue with this is that when seperate developers merge a project the projects wil normally not sit well togeither and will require assistanct to fix the issue. If working individually a programmer needs to first press ctr+s, commit, set a message, and then press sync. Unlike google drive were changes  are uploaded aoutomaticly, Visual Studio Code requires the programmer to press Sync for it to update to the network
+
+---
+
 # This week I learned ----9/7/2018: 6 sentences on what you learned 
 
 Tuesday: Sold state drives use energy as information if this drive was to sit on a shelf for two-three years the information will lose energy and will become unusable. 
