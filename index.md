@@ -1,8 +1,12 @@
-#This Week I Learned more about visual studio (10/12/18)
+# This Week I Learned more about visual studio (10/12/18)
 
 ---
 
 In visual studio code, I learned how to copy and past pictures into GitHub correctly. If you were to past a photo into GitHub first, you would need to find a photo. Once you have your photo, you will need to copy and paste the photo's URL, not the websites it posted on so that the visual studio will be able to find the picture. Once you have the photo, you will need to paste the URL in between two parentheses. Above you pasted URL, you then need to out a name for the picture in brackets and add an exclamation point at the end and send it to GitHub.
+
+---
+
+
 # This Week I learned Git 10/05/18
 
 ---
