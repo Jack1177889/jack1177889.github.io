@@ -1,3 +1,8 @@
+# This week I learned XML (10/19/18)
+
+---
+
+This past week I was using visual studio code to create a myWorld XML file. In myWord I had to create world written in XML style. XML is kind of formating that is similar to an out line. When formating you use tags, tags are titles, and with these tabs you add atributes. Atributes in short give a sort of value to the tag. You can put tags inside of tags but after each tag you have to close out each tag.
 # This Week I Learned more about visual studio (10/12/18)
 
 ---
