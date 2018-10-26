@@ -1,3 +1,10 @@
+# This week I learned HTML (10/26/18)
+
+---
+
+This week I learned HTML, HTML is used for creating websites. HTML requires a user to use tags. Tags are what a user will need to write details on your website. frame</iframe> creates adds a video to your web page. While img src adds an image, Another large section outside of creating images and videos are <tables>. Tables can order data into ordered sections. On our webpage, we used <input> to allow for a user to pick an option. Finally, their or <ol> ordered lists <ul> unordered lists allow data to be put into outline form.
+ 
+ 
 # This week I learned XML (10/19/18)
 
 ---
