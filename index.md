@@ -1,15 +1,27 @@
+# This week I created a Menu
+
+---
+
+The first part of our Fine menu was a radio system were I asked if the customer wanted a small, medium, or large pizzza. I then copied that system over to the pizza's style were the person can choose what kind of dough they want to eat. I also used the checkbox system that allows for a customer to choose more then one option when it comes picking food. Next I will be adding images under each option so that the customer can see what they want to chose for the most delicious option.
+
+---
+
 # This week I learned HTML (10/26/18)
 
 ---
 
 This week I learned HTML, HTML is used for creating websites. HTML requires a user to use tags. Tags are what a user will need to write details on your website. frame</iframe> creates adds a video to your web page. While img src adds an image, Another large section outside of creating images and videos are <tables>. Tables can order data into ordered sections. On our webpage, we used <input> to allow for a user to pick an option. Finally, their or <ol> ordered lists <ul> unordered lists allow data to be put into outline form.
  
+ ---
  
 # This week I learned XML (10/19/18)
 
 ---
 
 This past week I was using visual studio code to create a myWorld XML file. In myWord I had to create world written in XML style. XML is kind of formating that is similar to an out line. When formating you use tags, tags are titles, and with these tabs you add atributes. Atributes in short give a sort of value to the tag. You can put tags inside of tags but after each tag you have to close out each tag.
+
+---
+
 # This Week I Learned more about visual studio (10/12/18)
 
 ---
