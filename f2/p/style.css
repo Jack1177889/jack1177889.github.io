@@ -4,5 +4,9 @@ body{
 }
 img{
     height: 150px;
-    width: 200;
+    width: 200px;
+}
+.squircle{
+    border-radius: 25px;
+    padding: 20px
 }
