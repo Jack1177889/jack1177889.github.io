@@ -1,6 +1,7 @@
 body{
     background-color: gainsboro;
     color: maroon;
+    border-radius : 25px;
 }
 img{
     height: 150px;
