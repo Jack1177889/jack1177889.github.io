@@ -16,10 +16,15 @@ h3{
 h2{
     border-style:solid;
 }
+.pageMargin{
+    border-style: double;
+    border-width: 20px;
+    border-color:tomato;
+}
 .edge{
     border-style: double;
     border-width:10px;
-    border-color: tomato
+    border-color: tomato;
 }
 .squircle{
     border-radius: 25px;
