@@ -17,14 +17,14 @@ h2{
     border-style:solid;
 }
 .pageMargin{
-    border-style: double;
+    border-style: solid;
     border-width: 20px;
-    border-color:tomato;
+    border-color:maroon;
 }
 .edge{
-    border-style: double;
+    border-style: solid;
     border-width:10px;
-    border-color: tomato;
+    border-color: maroon;
 }
 .squircle{
     border-radius: 25px;
