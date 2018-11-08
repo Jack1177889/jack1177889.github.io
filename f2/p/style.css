@@ -2,11 +2,14 @@ body{
     background-color: gainsboro;
     color: maroon;
     border-radius: 25px;
-    padding: 20px
+    padding: 20px;
 }
 img{
     height: 150px;
     width: 200px;
+}
+h5{
+    border-style:dotted;
 }
 .squircle{
     border-radius: 25px;
