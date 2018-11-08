@@ -9,10 +9,10 @@ img{
     width: 200px;
 }
 h3{
-    border-style:dotted;
+    border-style:dashed;
 }
 h2{
-    border-style:dotted;
+    border-style:dashed;
 }
 .squircle{
     border-radius: 25px;
