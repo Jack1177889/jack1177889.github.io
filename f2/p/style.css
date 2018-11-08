@@ -10,9 +10,16 @@ img{
 }
 h3{
     border-style:solid;
+    border-width:20px;
+    border-color: brown
 }
 h2{
     border-style:solid;
+}
+.edge{
+    border-style: double;
+    border-width:20px;
+    border-color: tomato
 }
 .squircle{
     border-radius: 25px;
