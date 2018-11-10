@@ -1,3 +1,11 @@
+# This Week I learned CSS
+
+---
+
+This past week I complted two major tasks. First I learned how to crop/ edit the sizes of my photo's that I used as a display on the menue. I also learend how to create lines and set boarders so that I can neattly organize the menue.
+
+---
+
 # This week I created a Menu
 
 ---
