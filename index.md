@@ -1,4 +1,4 @@
-# This Week I learned CSS
+# This Week I learned CSS (11/9/19)
 
 ---
 
@@ -6,7 +6,7 @@ This past week I complted two major tasks. First I learned how to crop/ edit the
 
 ---
 
-# This week I created a Menu
+# This week I created a Menu (11/2/18)
 
 ---
 
