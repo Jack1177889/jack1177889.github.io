@@ -1,7 +1,19 @@
 body{
     background-color: gainsboro;
     color: maroon;
+    font-family:"Time New Roman"
 }
 h6{
     width: 1px
+}
+img{
+    height: 150px;
+    width: 200px;
+}
+.pageMargin{
+    border-style: solid;
+    border-width: 5px;
+    border-color:maroon;
+    margin: 20px;
+    border-radius: 10px;
 }
