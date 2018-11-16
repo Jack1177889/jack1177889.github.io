@@ -1,3 +1,10 @@
+# This Week I finished a game cite (11/16/19)
+
+---
+
+I personally love the Metal Gear Franchise. I used the most resent game Metal Gear Solid V: Ground Zero's and The phamtom Pain I used as the base for my cite. One of my cite I was supposed to create a very simple over view of the game. My overview had the base plot of the game. Basic gameplay mechanics and also a few photo's of characters. I referenced/made a link to my gallery by typing <a href="gallery.html">Game Photo's</a>. In my gallery I also added a link back to my Home page allowing for the user to return back to the main page with out having to press the back button on their browser.
+
+---
 # This Week I learned CSS (11/9/19)
 
 ---
