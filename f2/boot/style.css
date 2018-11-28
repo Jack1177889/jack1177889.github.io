@@ -5,7 +5,10 @@
     background-color:whitesmoke;
 }
 .gold{
-    background-color: rgb(255, 218, 6);
+    background-color: goldenrod;
+}
+.goldtext{
+    color: goldenrod;
 }
 .block{
     height:100px;
