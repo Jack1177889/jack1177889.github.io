@@ -1,13 +1,12 @@
 .green{
-    background-color: green
+    background-color: green;
 }
-.White{
-    background-color: white
+.white{
+    background-color: white;
 }
 .gold{
-    background-color: gold
+    background-color: gold;
 }
 .block{
     height:100px;
-    width:100px;
 }
