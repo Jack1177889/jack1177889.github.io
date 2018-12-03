@@ -5,9 +5,9 @@ body{
 width:120px;
 }
 .onepx{
-width:10px;
-height:10px;
+width:100px;
+height:100px;
 background-color:white;
-border:1px;
+border:20px;
 border-style:
 }
