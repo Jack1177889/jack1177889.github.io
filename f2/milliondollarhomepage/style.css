@@ -1,4 +1,8 @@
 .b{
-    background-color: black
-
+    background-color: black;
+    color: gray;
+}
+.r{
+    background-color: whitesmoke;
+    color: red;
 }
