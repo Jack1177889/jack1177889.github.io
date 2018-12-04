@@ -1,12 +1,15 @@
 .b{
     background-color: black;
     color: gray;
+    height:10px
 }
 .r{
     background-color: whitesmoke;
     color: red;
+    height:10px
 }
-.r{
+.g{
     background-color: gainsboro;
     color:grey;
+    height:10px
 }
