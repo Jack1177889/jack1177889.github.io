@@ -1,20 +1,4 @@
-body{
-    background-color:whitesmoke;
+.b{
+    background-color: black
+
 }
-.twelepx{
-width:120px;
-}
-.onepx{
-width:100px;
-height:100px;
-background-color:white;
-border:20px;
-border-style:
-}
-.twopx{
-    width:100px;
-    height:100px;
-    background-color:blue;
-    border:20px;
-    border-style:
-    }
