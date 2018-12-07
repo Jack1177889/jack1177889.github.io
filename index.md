@@ -1,3 +1,13 @@
+#Million Dollar Webiste.
+
+---
+
+This week I built a million dollar website. My Website was built as a passion project for the province of Brittany flag. I know it might seem weird or odd that I would have
+a passion project for a provinse that I do not live in its just that cool. For my project had did the usual Index.html and the ussual style.css. In style i created the lengh,
+width, and color of my boxs. By the way the picture had to be 12 squares across and can expand and infinitly down words. The page also had a link to boot strap so that my picture will stay the same no matter how large the screen.
+
+---
+
 # This Week I finished a game cite (11/16/19)
 
 ---
