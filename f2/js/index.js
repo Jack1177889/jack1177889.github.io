@@ -9,3 +9,9 @@ alert(fname +" are we there yet?");
 }
 
 }
+function mark_present()
+{
+    var cadet_name = $('#cadet_name').val();
+    alert(cadet_name+"is here!")
+}
+
