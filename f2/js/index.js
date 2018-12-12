@@ -11,7 +11,9 @@ alert(fname +" are we there yet?");
 }
 function mark_present()
 {
+    alert("yeet");
     var cadet_name = $('#cadet_name').val();
+    alert("asdfasdf");
     alert(cadet_name+ " is here!");
 }
 
