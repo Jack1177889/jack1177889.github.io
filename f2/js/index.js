@@ -7,14 +7,14 @@ document.getElementById("annoy").innerHTML  = "I am annoed";
 while(true){
 alert(fname +" are we there yet?");
 }
-
 }
+
 function mark_present()
 {
-    alert("yeet");
     var cadet_name = $('#cadet_name').val();
     alert(cadet_name+ " is here!");
 }
+/*
 
 function mark_present()
 {
@@ -24,11 +24,11 @@ function mark_present()
     $('#caders_list').append("<l1>")+cadet_name+"</l1>");
 }
 
-$(document).ready(function(){
+$(document).ready(function() {
     var flag = false;
     setInterval(function() {
         flag = !flag;
         $("body").css("background", flag ? "red" : "green");
         $("body").css("background", flag ? "green" : "red");
     }, 1000);
-});
+});*/
