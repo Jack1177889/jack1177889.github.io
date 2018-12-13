@@ -16,14 +16,15 @@ function mark_present()
 }
 /
 
-*/function mark_present()
+*/
+function mark_present()
 {
     var cadet_name = $('#cadet_name').val();
     alert(cadet_name+"is here!");
     $('#present_cadets').append("<ul id = 'cadets_list'></ul>");
-    $('#caders_list').append("<l1>"+cadet_name+"</l1>");
+    $('#cadets_list').append("<l1>"+cadet_name+"</l1>");
 }
-/*
+
 $(document).ready(function() {
     var flag = false;
     setInterval(function() {
@@ -31,4 +32,4 @@ $(document).ready(function() {
         $("body").css("background", flag ? "red" : "green");
         $("body").css("background", flag ? "green" : "red");
     }, 1000);
-});*/
+});
