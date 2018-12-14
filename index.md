@@ -1,3 +1,15 @@
+#Java Script(12/14/18)
+
+---
+
+This week I Learned Java ScriptJava Script is a programing language that was built to give websites interatiblilty. For instance in Java Scipt a programmer can program
+a website to send notifications to the user. These notification can be sent when the website first loads, if the user presses a button, or at a delayed time. These messages 
+can aslo be set if a programmer wants to send a cetain amount or and endless loop of death. Java Script also allows the programmer to set music and even force the background
+to chang.
+
+---
+
+
 # Million Dollar Webiste (11/7/2018)
 
 ---
