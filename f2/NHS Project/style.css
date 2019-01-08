@@ -1,23 +1,5 @@
-.b{
-    background-color: black;
-    color: gray;
-    height:10px
-}
-.r{
-    background-color: whitesmoke;
-    color: red;
-    height:10px
-}
-.g{
-    background-color: gainsboro;
-    color:grey;
-    height:10px
-}
-.y{
-    background-color: yellow;
-    height:10px
-}
-.m{
-    background-color:mediumseagreen;
-    height:10px
+body{
+    background-color: greenyellow;
+    color: maroon;
+    font-family:"Time New Roman"
 }
